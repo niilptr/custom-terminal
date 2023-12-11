@@ -3,8 +3,8 @@
 # ======================= SHELL FUNCTIONS =======================
 
 # register ~/.bash_functions if file exists
-if [ -f $HOME/.bash_functions__ ]; then
-    . $HOME/.bash_functions__
+if [ -f $HOME/.bash_functions ]; then
+    . $HOME/.bash_functions
 fi
 
 # ---------------------------------------------------------------
