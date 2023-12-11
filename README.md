@@ -15,7 +15,7 @@ git clone
 Add the following to your `.zshrc`:
 
 ```
-for f in $HOME/custom-terminal/*; do source $f; done
+for f in $HOME/custom-terminal/src/*; do source $f; done
 ```
 
 This will load:
